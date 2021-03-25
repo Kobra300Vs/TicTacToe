@@ -1,0 +1,9 @@
+Round "1" was won by Yes
+In this log sesion No won 0 times, Yes won 1 times, and they get 0 draws.
+Round "1" was won by Good
+In this log sesion Good won 1 times, Bad won 0 times, and they get 0 draws.
+Round "1" was won by Hello
+Round "2" was won by World
+Round "3" was won by Hello
+Round "4" was tie.
+In this log sesion Hello won 2 times, World mwon 1 ties, and they get 1 draws.
